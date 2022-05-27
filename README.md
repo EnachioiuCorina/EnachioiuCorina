@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EnachioiuCorina
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML&CSS
+- 👀 I’m interested in Data analysis and Data Visualization
+- 🌱 I’m currently learning R programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
